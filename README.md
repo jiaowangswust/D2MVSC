@@ -1,2 +1,2 @@
 # D2MVSC
-run train.py
+run python train.py
